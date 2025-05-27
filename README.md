@@ -1,6 +1,6 @@
 # **Revenue Growth via Agent Channel Analysis – Project Overview**
 
-A fantasy sports platform, established in 2023, targeting the **Indian market**, where users join **paid contests daily**.
+A **B2C fintech platform, established in 2023, targeting the Indian market**, where users participate in event-driven activities through a gamified wallet and voucher system. **The platform relies on a nationwide agent network to drive high-volume transactions and early monetization**.
 
 This project is part of an ongoing quarterly performance review of the Agent Acquisition Campaign, focused on optimizing user acquisition costs and maximizing short-term revenue growth. The version presented here highlights the 2025 reporting cycle, aiming to boost revenue growth through financial efficiency and acquisition strategies.
 
@@ -36,7 +36,7 @@ The screenshot below shows the Power BI semantic model, all complex business log
 
 # **Executive Summary**
 
-**In February 2025, the platform faced a significant operational crisis**, withdrawal delays skyrocketed, damaging player confidence and triggering a sharp decline in transaction volumes.  
+**In February 2025, the platform faced a significant operational crisis**, withdrawal delays skyrocketed, damaging user confidence and triggering a sharp decline in transaction volumes.  
 Crucially, this crisis didn’t only affect paying users, **agents—who also play a key role as community influencers—lost trust in the platform**, leading to a sharp decline in agent engagement and acquisition performance.
 
 The Agent Campaign successfully delivered a strong LTV/CAC Ratio of 151x in Q1 2025, despite critical business risks and declining agent loyalty during this period. However, **this performance marked a significant decline from the 186x ratio achieved in Q4 2024**, highlighting the volatility of short-lifecycle acquisition strategies and the urgency for strategic recovery initiatives to sustain profitability and growth.
@@ -111,7 +111,7 @@ This is an [**Power BI Dashboard** – Viewable Online *(no download required)*]
 
 While the agent campaign successfully delivered an LTV/CAC ratio of 186 in Q4 2024, this declined to 151 in Q1 2025, signaling the need for strategic adjustments. This campaign prioritizes rapid onboarding and early monetization rather than sustained user retention. 
 
->**Note**: *The exceptionally high LTV/CAC ratios presented reflect an aggressive, fast-monetization, short-lifecycle acquisition model. Revenue is intentionally captured early in the user lifecycle, and user retention is not a primary objective under this strategy. This differs from the long-term user value creation typically seen in subscription-based or SaaS business models. Long-term growth is instead supported through high-value acquisition channels, primarily driven by influencer partnerships.*
+>**Note**: *The exceptionally high LTV/CAC ratios presented reflect an aggressive, fast-monetization, short-lifecycle acquisition model. Revenue is intentionally captured early in the user journey, with user retention being a secondary priority. This model closely resembles campaign-driven consumer finance platforms, where growth is supported through high-value acquisition channels—primarily influencer partnerships.*
 
 The following strategies were recommended and have been successfully implemented to further improve revenue outcomes under this campaign:
 
