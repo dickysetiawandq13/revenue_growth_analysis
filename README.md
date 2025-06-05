@@ -4,7 +4,7 @@ A **B2C fintech platform, established in 2023, targeting the Indian market**, wh
 
 This project is part of an ongoing quarterly performance review of the Agent Acquisition Campaign, focused on optimizing user acquisition costs and maximizing short-term revenue growth. The version presented here highlights the 2025 reporting cycle, aiming to boost revenue growth through financial efficiency and acquisition strategies.
 
-The latest analysis is current as of May 2025, covering data up to March 2025, and is **actively used in high-level decision-making discussions** with the Site Manager, Finance Lead, and Promotion Coordinator **to guide acquisition strategies and accelerate revenue growth**.
+The latest analysis is current as of May 2025, covering data up to March 2025, and is **actively used in high-level decision-making discussions** with the Ops Manager, Finance Lead, and Promotion Coordinator **to guide acquisition strategies and accelerate revenue growth**.
 
 > **Disclaimer**: All user data and agent identities has been anonymized. No personally identifiable information (PII) is used in this analysis, in accordance with internal data protection policies and privacy standards.
 
